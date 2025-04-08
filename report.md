@@ -1,5 +1,5 @@
 Eden Mordinson, 215549544 <br/>
 Ilan Vainblat, 327948063 <br/>
 
-![alt text](Screenshot 2025-04-08 223102.png)
+![alt text](Screenshot.png)
 
